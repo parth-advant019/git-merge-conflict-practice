@@ -1,4 +1,4 @@
-function login() {}
+function login_new() {}
 function validate() {}
 function submit() {}
 
