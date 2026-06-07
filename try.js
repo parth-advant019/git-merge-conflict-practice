@@ -6,3 +6,8 @@ function one() {}
 // some work done
 function newtwo() {}
 //do some works
+
+// some other code
+// some other code
+// some other code
+// some other code
