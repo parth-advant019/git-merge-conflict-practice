@@ -11,3 +11,5 @@ function newtwo() {}
 // some other code
 // some other code
 // some other code
+
+function cherypic() {}
