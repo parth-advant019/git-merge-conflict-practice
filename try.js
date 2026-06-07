@@ -25,3 +25,4 @@ function cherypicmultipal() {}
 function cherypicmultipal() {}
 
 function cherypic_start() {}
+function cherypic_mid() {}
