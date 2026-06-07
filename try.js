@@ -23,6 +23,6 @@ function cherypicmultipal() {}
 function cherypicmultipal() {}
 function cherypicmultipal() {}
 
-//some mearg conflicts
-//some mearg conflicts
-//some mearg conflicts
+function cherypic_start() {}
+function cherypic_start() {}
+function cherypic_mid() {}
