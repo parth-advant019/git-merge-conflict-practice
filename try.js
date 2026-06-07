@@ -13,15 +13,16 @@ function newtwo() {}
 // some other code
 
 function cherypic() {}
+function cherypic() {}
+function cherypic() {}
+function cherypic() {}
+function cherypic() {}
 
-//some mearg conflicts
-//some mearg conflicts
-//some mearg conflicts
-//some mearg conflicts
-//some mearg conflicts
-//some mearg conflicts
-//some mearg conflicts
-//some mearg conflicts
+function cherypicmultipal() {}
+function cherypicmultipal() {}
+function cherypicmultipal() {}
+function cherypicmultipal() {}
+
 //some mearg conflicts
 //some mearg conflicts
 //some mearg conflicts
