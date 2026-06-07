@@ -13,3 +13,13 @@ function newtwo() {}
 // some other code
 
 function cherypic() {}
+
+function cherypic() {}
+function cherypic() {}
+function cherypic() {}
+function cherypic() {}
+
+function cherypicmultipal() {}
+function cherypicmultipal() {}
+function cherypicmultipal() {}
+function cherypicmultipal() {}
